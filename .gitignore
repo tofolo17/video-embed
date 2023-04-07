@@ -1,0 +1,7 @@
+**/__pycache__
+venv
+docker-commands.txt
+input/
+output/
+.env
+sample/

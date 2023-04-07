@@ -1,0 +1,8 @@
+**/__pycache__
+venv
+docker-commands.txt
+.env
+input/
+output/
+handler.py
+README.md
